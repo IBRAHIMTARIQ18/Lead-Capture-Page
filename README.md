@@ -33,7 +33,7 @@ The purpose of this project was to practice building modern landing pages while 
 
 ## Preview
 
-Live Demo:
+Live Demo: https://lead-capture-page.netlify.app/
 
 ---
 
